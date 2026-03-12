@@ -18,5 +18,15 @@
     "village": "District Hospital",
     "age": 42,
     "createdAt": "2026-03-12T13:23:54.839Z"
+  },
+  {
+    "id": "3fd6c3ce-ca29-44a8-b0cc-bfeeebfd74c7",
+    "name": "City Pharmacy",
+    "phone": "9876543212",
+    "password": "$2a$10$zm1X1RSQPhAsA1RFUP4gp.mIzlL55jrtGnix4Vj.FGa3.Y0Rml03O",
+    "role": "pharmacy",
+    "village": "Main Bazaar",
+    "age": 30,
+    "createdAt": "2026-03-12T19:14:55.536Z"
   }
 ]
